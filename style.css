@@ -1,0 +1,50 @@
+
+
+ul {
+    list-style-type: none;
+    margin: auto;
+    padding: 15px;
+    overflow: hidden;
+    text-transform: uppercase;
+    font-family: 'Teko', sans-serif;
+    font-size: 15px;
+
+}
+
+li {
+    display: inline-block;
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+    width: 67px;
+    padding: 0px 16px;
+    display: block;
+    text-align: center;
+}
+
+}
+
+.banner2 {
+    font-family: 'Abel', sans-serif;
+}
+
+.text {
+    font-family: 'Abel', sans-serif;
+
+}
+
+
+.footer {
+    height: 150px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.fontfoot {
+    font-family: 'Abel', sans-serif;
+}
+
